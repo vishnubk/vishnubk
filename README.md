@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishnubk93" target="blank"><img src="https://img.shields.io/twitter/follow/vishnubk93?logo=twitter&style=for-the-badge" alt="vishnubk93" /></a> </p>
 
-- 🔭 I’m currently working on [C++ CUDA GPU Pipeline to find Compact Binaries](https://github.com/vishnubk/5D_Peasoup) 
+- 🔭 I’m currently working on a [C++ CUDA GPU Pipeline to find Compact Binaries](https://github.com/vishnubk/5D_Peasoup) 
 - 🔭 I have previously built a [Semi-Supervised GAN to classify pulsar signals in radio time-domain data](https://github.com/vishnubk/sgan)
 
 <h3 align="left">Connect with me:</h3>
