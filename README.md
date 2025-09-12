@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
-<h3 align="center">I'm a postdoc at the Max Planck Institue for Radio Astronomy in Bonn. </h3>
+<h3 align="center">I'm a postdoc at Harvard University in Boston. </h3>
 <h4 align="center"> My main research interests are Pulsar searching and timing where I primarily specialise in new algorithms for finding compact binary pulsars. I also actively build Machine Learning Pipelines to identify pulsars in radio observations.</h4>
 
 
