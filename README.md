@@ -1,23 +1,42 @@
-<h1 align="center">Hi 👋, I'm Vishnu</h1>
-<h3 align="center">I'm a postdoc at Harvard University in Boston. </h3>
-<h4 align="center"> My main research interests are Pulsar searching and timing where I primarily specialise in new algorithms for finding compact binary pulsars. I also actively build Machine Learning Pipelines to identify pulsars in radio observations.</h4>
+<h1 align="center">Vishnu Balakrishnan</h1>
+<h3 align="center">Postdoctoral Researcher · Harvard University, Boston</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnubk&label=Profile%20views&color=0e75b6&style=flat" alt="vishnubk" /> </p>
-
-<p align="left"> <a href="https://twitter.com/vishnubk93" target="blank"><img src="https://img.shields.io/twitter/follow/vishnubk93?logo=twitter&style=for-the-badge" alt="vishnubk93" /></a> </p>
-
-- 🔭 I have previously built a [C++ CUDA GPU Pipeline to find Compact Binaries](https://github.com/vishnubk/5D_Peasoup) 
-- 🔭 I have previously built a [Semi-Supervised GAN to classify pulsar signals in radio time-domain data](https://github.com/vishnubk/sgan)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vishnubk93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishnubk93" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dr-vishnu-balakrishnan-50142a87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dr-vishnu-balakrishnan-50142a87" height="30" width="40" /></a>
+<p align="center">
+  <i>Radio transients · Algorithms · Distributed Computing · Machine Learning</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+> Most of my work is on building GPU-accelerated search pipelines and machine learning tools to find new Pulsars and FRBs.
 
+---
 
+## Current Research
+- **CASM (Coherent All-Sky Monitor)**: Developing software for beamforming, transient searching, and machine learning–based candidate selection for the [CASM array](https://liamconnorastro.com/casm.html) at OVRO, designed to detect nearby FRBs.  
+
+---
+
+## Previous Work
+- **COMPACT (ERC Starting Grant)**: Postdoctoral researcher in [COMPACT](https://erc-compact.org/), where I designed a distributed pulsar search engine coordinating multiple HPC clusters worldwide using Kafka for real-time binary pulsar searches.  
+  - Code: [one_ring](https://github.com/erc-compact/one_ring)
+
+---
+
+## Pulsar Search Contributions
+- **Peasoup**: One of the main contributors to [peasoup](https://github.com/ewanbarr/peasoup), a GPU-accelerated pulsar search package supporting acceleration searches and template-bank searches for both circular and elliptical binary orbits.
+
+---
+
+## Machine Learning
+- Developed a [Semi-Supervised GAN](https://github.com/vishnubk/sgan) for pulsar signal classification in radio time-domain data.
+
+---
+
+## Languages and Tools
+Python · SQL · CUDA/C++ · Bash · Docker · Kafka · Kubernetes · Scikit-learn · TensorFlow  
+
+---
+
+## Connect
+- [Twitter](https://twitter.com/vishnubk93)  
+- [LinkedIn](https://linkedin.com/in/dr-vishnu-balakrishnan-50142a87)
