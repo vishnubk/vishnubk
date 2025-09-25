@@ -36,8 +36,4 @@
 ## Languages and Tools
 Python · SQL · CUDA/C++ · Bash · Docker · Kafka · Kubernetes · Scikit-learn · TensorFlow  
 
----
 
-## Connect
-- [Twitter](https://twitter.com/vishnubk93)  
-- [LinkedIn](https://linkedin.com/in/dr-vishnu-balakrishnan-50142a87)
