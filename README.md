@@ -7,7 +7,7 @@
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-> Most of my work is on building GPU-accelerated search pipelines and machine learning tools to find new Pulsars and FRBs.
+> I build GPU-accelerated search pipelines and machine learning tools to find new Pulsars and FRBs.
 
 ---
 
