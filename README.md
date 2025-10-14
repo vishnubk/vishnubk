@@ -16,7 +16,7 @@
 
 ---
 
-## Previous Work
+## Previous Work @ Max Planck Institute for Radio Astronomy, Bonn, Germany
 - **COMPACT**: Postdoctoral researcher in [COMPACT](https://erc-compact.org/), where I designed a distributed pulsar search engine coordinating multiple HPC clusters worldwide using Kafka for real-time binary pulsar searches.  
   - Code: [one_ring](https://github.com/erc-compact/one_ring)  
   - **ASGARD**: [ASGARD](https://github.com/erc-compact/asgard) is a Nextflow pipeline developed for the COMPACT project to process MeerKAT baseband data from raw SPEAD packets to dedispersed, beamformed, and folded pulsar data products.
